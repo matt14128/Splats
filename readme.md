@@ -21,3 +21,5 @@ easiest way to test is
 ``````
 python -m http.server
 ``````
+
+For new comp, git clone in VSCode
